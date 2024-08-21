@@ -1,2 +1,1 @@
-console.log(1);
-console.log("master")
+console.log("main")
