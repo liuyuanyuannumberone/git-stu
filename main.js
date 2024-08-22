@@ -1,4 +1,4 @@
 console.log("main")
 
 
-function addmain(){}
+function feature(){}
