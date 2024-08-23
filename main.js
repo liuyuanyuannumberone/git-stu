@@ -1,3 +1,1 @@
-console.log("main")
-
-console.log("main1.js")
+console.log('第一行')
